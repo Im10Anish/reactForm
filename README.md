@@ -1,4 +1,4 @@
-<div align="center"><h1>📣 React Hook Form vs Formik</h1>
+<div align="center"><h1>📣 React Hook Form vs Formik</h1></div>
 
 ## 1. Easy to use
 
