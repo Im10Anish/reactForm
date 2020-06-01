@@ -123,4 +123,4 @@ export default ReactHookForm
 
 ## Important Note
 
-    I used Formik and then migrated to react-hook-form because Formik is very slow with large forms. I found couple bugs in react-hook-forms which were fixed over the time. Unfortunately during development I realised that I cannot use react-hook-forms in some complex forms because there are some missing features (ie. arrays of arrays, dependencies between fields, not that good support of typescript ...). I would recommend you to use react-hook-forms if you need large and simple forms, otherwise use Formik.
+I used Formik and then migrated to react-hook-form because Formik is very slow with large forms. I found couple bugs in react-hook-forms which were fixed over the time. Unfortunately during development I realised that I cannot use react-hook-forms in some complex forms because there are some missing features (ie. arrays of arrays, dependencies between fields, not that good support of typescript ...). I would recommend you to use react-hook-forms if you need large and simple forms, otherwise use Formik.
